@@ -1,0 +1,8 @@
+site_name: "BSDocumentationExample"
+site_description: "Backstage Documentation Example"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "BSDocumentationExample"
+  description: "Backstage Documentation Example"
+  annotations:
+    github.com/project-slug: jshingler/bsdocex
+    backstage.io/techdocs-ref: url:https://github.com/jshingler/bsdocex
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "jshingler"
