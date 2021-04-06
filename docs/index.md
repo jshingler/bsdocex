@@ -1,4 +1,4 @@
-## BSDocumentationExample JLS
+## BSDocumentationExample JLS2
 
 Backstage Documentation Example
 
